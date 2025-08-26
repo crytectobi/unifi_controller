@@ -1,11 +1,13 @@
 namespace: crytectobi
 name: unifi_controller_facts
 version: 1.0.0
+description: Module to access data of local Unifi Controller facts.
+repository: https://github.com/crytectobi/unifi_controller/
 readme: README.md
 authors:
     - "Ken Moini"
 license:
-    - "GNU GPLv3"
+    - "GPL-3.0-only"
 tags:
     - unifi
     - ubiquiti
