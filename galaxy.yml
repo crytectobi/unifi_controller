@@ -1,0 +1,11 @@
+namespace: crytectobi
+name: unifi_controller_facts
+version: 1.0.0
+readme: README.md
+authors:
+    - "Ken Moini"
+license:
+    - "GNU GPLv3"
+tags:
+    - unifi
+    - ubiquiti
